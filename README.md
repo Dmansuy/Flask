@@ -32,4 +32,8 @@ Après constatation de la modification j'ai changé le contenu de app.py avec le
  
 ### Les aspects techniques limitants du projet FLGAZ dans l'état initial selon moi
 
+Je ne saurais pas répondre à cette question.
+
 ### Les menaces auxquelles un tel projet peut être soumis selon moi
+
+Je n'ai pas énormément d'idée qui me vienne en tête là tout de suite mais je dirais le fait que le nombre de caractère pour le nom d'utilisation et le message texte ne soient pas limités, qui peuvent possiblement surcharger l'espace de stockage disponible sur Python Anywhere.
