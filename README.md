@@ -27,12 +27,9 @@ Pour herberger le projet:
 ### Quelles difficultés avez-vous rencontrées ?
 
 J'ai eu du mal à comprendre pourquoi la page `http://dmansuy.pythonanywhere.com/` m'afficher `Bienvenue sur Flask !` à la 
-place du `Bienvenue` présent dans le code app py d'origine. J'ai découvert après quelques minutes d'investigation
-que mon fichier app py avait été totalement réécrit pour laisser place la phrase `Bienvenue sur Flask !`. 
+place du `Bienvenue` initialement prévu sur la route `\` présent dans le code app.py d'origine. J'ai découvert après quelques minutes d'investigation que mon fichier app.py avait été totalement réécrit pour laisser place la phrase `Bienvenue sur Flask !`. 
 Après constatation de la modification j'ai changé le contenu de app.py avec le code d'origine.
  
-### Réflexions sur le projet
-
 ### Les aspects techniques limitants du projet FLGAZ dans l'état initial selon moi
 
 ### Les menaces auxquelles un tel projet peut être soumis selon moi
